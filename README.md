@@ -15,6 +15,7 @@ A compilation of helpful resources for learning modern Javascript.
 
 ## Guides
 
+- [Step By Step Guide To Become Modern Frontend Developer In 2021](https://dev.to/nickbulljs/step-by-step-guide-to-become-modern-frontend-developer-in-2021-2216)
 - [Our large team of engineers use this front end development guide](https://www.freecodecamp.org/news/grabs-front-end-guide-for-large-teams-484d4033cc41/)
 
 ## React
