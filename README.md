@@ -20,6 +20,7 @@ A compilation of helpful resources for learning modern Javascript.
 ## React
 
 - [Grab's Front End Guide for Large Teams](https://www.freecodecamp.org/news/grabs-front-end-guide-for-large-teams-484d4033cc41/)
+- [Optimal file structure for React applications](https://charles-stover.medium.com/optimal-file-structure-for-react-applications-f3e35ad0a145)
 
 ## Job Interview
 
