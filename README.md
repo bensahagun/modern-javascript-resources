@@ -8,6 +8,7 @@ A compilation of helpful resources for learning modern Javascript.
 - [A Study Plan To Cure JavaScript Fatigue](https://www.freecodecamp.org/news/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1/)
 - [A Brief History of Javascript](https://auth0.com/blog/a-brief-history-of-javascript/)
 - [A Rundown of ES6 Features](https://auth0.com/blog/a-rundown-of-es6-features/)
+- [The new wave of Javascript web frameworks](https://frontendmastery.com/posts/the-new-wave-of-javascript-web-frameworks/)
 
 ## Courses
 
